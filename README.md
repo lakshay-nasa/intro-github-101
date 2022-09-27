@@ -1,2 +1,2 @@
 # intro-github-101
-Experience Open Source: GitHub 101 - An Intro to Git and GitHub for Newbies
+This repository will be used by attendees of GDSC workshop "Experience Open Source: GitHub-01 - An Intro to Git and GitHub for Newbies".
